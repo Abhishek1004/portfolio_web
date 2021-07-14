@@ -1,0 +1,163 @@
+{
+  "main": {
+    "name": "Abhisek Prusty",
+    "occupation": "Recent UT Dallas Graduate",
+    "description": "Epistemophiliac",
+    "image": "profile_pic.jpeg",
+    "bio": "I am a pretty vanilla dude who codes and enjoys learning anything new. I prefer order and consistency over spontaneity. I have been coding for a substantial amount of time in languages like Python and Java. My interests lie in Data Science and related fields like Artificial Intelligence and Machine Learning and also in areas related to Web Development. Whenever possible, I like to learn new technologies and improve my knowledge on Node.js and React.js. My hobbies include working out, reading, listening music and exploring new places. Oh and I am a casual gamer too. For my side hustle, I try learning about Stock Markets and investing as much as possible.",
+    "contactmessage": "Get in touch with me for any queries!",
+    "email": "Abhishek.lan@gmail.com",
+    "phone": "+1 (214)991-4617",
+    "address": {
+      "street": "7575 Frankford Rd 1713",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75252"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1gSde4hwIrY5XPjy7UvkzWlWUrqkCdFCX",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhishek.logan2332/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhisek-prusty/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Abhishek1004",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Level of Expertise in various fields",
+    "education": [
+      {
+        "school": "University of Texas at Dallas",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "May 2021",
+        "description": "Graduated in Data Science Track"
+      },
+      {
+        "school": "IIIT Bhubaneswar",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": "May 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sigma Analytics and Computing",
+        "title": "Data Science Intern",
+        "years": "August 2018 - July 2019",
+        "description": "A part of Data Science team, we partnered with Pollution Control Board, assisting them monitor industries by comparing various data from industrial equipment and pollution output. Developed a rating dashboard presenting the performance of various industrial units in time based graphs. Implemented Flagging System improving efficiency by 4%. Performed OCR on image data, optimizing accuracy by almost 10%."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "59%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "70%"
+      },
+      {
+        "name": "Data Visualization",
+        "level": "81%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Stock-Aid - Website for buying and selling stocks",
+        "category": "",
+        "image": "stocks.jpg"
+      },
+      {
+        "title": "Maze PathFinder",
+        "category": "",
+        "image": "unnamed.png"
+      },
+      {
+        "title": "Stock Market Prediction building RNN from scratch",
+        "category": "",
+        "image": "image_694106611551625569371508.png"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin_react.png"
+      },
+      {
+        "title": "Lightweight Database Engine",
+        "category": "",
+        "image": "database.jpg"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon_clone.png"
+      },
+      {
+        "title": "Twitter Live Stream Analysis",
+        "category": "",
+        "image": "twitter.jpg"
+      },
+      {
+        "title": "Big Data Topic Labelling",
+        "category": "",
+        "image": "Topic-Labeling-Process.png"
+      },
+      {
+        "title": "Quora Question Pair Similarity",
+        "category": "",
+        "image": "quora.png"
+      },
+      {
+        "title": "NYC AirBNB Data Analysis and Visualization",
+        "category": "",
+        "image": "Airbnb-NYC-law.jpg"
+      },
+      {
+        "title": "Music Genration using Deep Learning",
+        "category": "",
+        "image": "deep_learning_music.jpeg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Abhisek is an excellent team player, especially when there's a time constraint on things. That is when he shines with his technical and leadership skills. His expertise in Data Science is commendable.",
+        "user": "Dinesh Pandey"
+      },
+      {
+        "text": "It is always a pleasure working with Abhisek, he doesn't waver from his goals and rather motivate others with this immense work ethic and helpful attitude.",
+        "user": "Vinay Patil"
+      }
+    ]
+  }
+}
